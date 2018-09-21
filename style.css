@@ -12,20 +12,20 @@ body, h1 {
     background-repeat: repeat-x;
     background-position: center;
     -webkit-background-clip: text;
-    animation: animate 30s linear infinite;
+    animation: animate 40s linear infinite;
 }
 
-@keyframes animate {                                   
-    0% {                                               
-        background-position: right 50px bottom 10px;   
-    }                                                  
-    40% {                                              
-        background-position: left 10px top 10px;       
-    }                                                  
-}                                                      
+@keyframes animate {
+    0% {
+        background-position: right 50px bottom 10px;
+    }
+    40% {
+        background-position: left 10px top 10px;
+    }
+}
 
 .text-container {
-    margin-top: 17%;
+    margin-top: 20%;
     text-align: center;
 }
 
@@ -34,13 +34,15 @@ body, h1 {
     src: url(fonts/g_font.ttf);
     font-weight: bold;
 }
+
 @font-face {
     font-family: gFontBold;
     src: url(fonts/g_font_bold.ttf);
     font-weight: bold;
 }
-@media screen and (max-width: 320px) {     
-    div span:last-of-type {                
-        display: block;                    
-    }                                      
-}                                          
+
+@media screen and (max-width: 320px) {
+    div span:last-of-type {
+        display: block;
+    }
+}
