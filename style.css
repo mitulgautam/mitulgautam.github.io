@@ -15,14 +15,14 @@ body, h1 {
     animation: animate 30s linear infinite;
 }
 
-@keyframes animate {
-    0% {
-        background-position: left 0px top 10px;
-    }
-    40% {
-        background-position: right 100px bottom 10px;
-    }
-}
+@keyframes animate {                                   
+    0% {                                               
+        background-position: right 50px bottom 10px;   
+    }                                                  
+    40% {                                              
+        background-position: left 10px top 10px;       
+    }                                                  
+}                                                      
 
 .text-container {
     margin-top: 17%;
