@@ -52447,7 +52447,7 @@ while(true)switch(s){case 0:p=t.X
 o=P.aO(["student",P.aO(["email",b],p,p)],p,t.dv)
 p=P.aO(["content-type","application/json"],p,p)
 s=3
-return P.ai(G.aip("http://recardo.club:3000/api/v1/students/registration",C.b2.h_(o),p),$async$qA)
+return P.ai(G.aip("http://18.219.78.233:3000/api/v1/students/registration",C.b2.h_(o),p),$async$qA)
 case 3:q=d
 s=1
 break
