@@ -52465,7 +52465,7 @@ $S:5}
 Q.GA.prototype={}
 F.BY.prototype={
 H:function(a){var s=null,r=H.a([new T.mu(new Y.oy(new F.Rt(),s,s,s,F.a8h(),T.agY(),t.bz),s,s,s,s,t.Ct)],t.jD)
-return Y.acX(new S.t8(new T.tX(s),"Flutter Demo",X.a6e(C.mY,C.H,"Gilory",C.mY,X.aec()),!1,s),r)}}
+return Y.acX(new S.t8(new T.tX(s),"Recardo CodeChef Registration",X.a6e(C.mY,C.H,"Gilory",C.mY,X.aec()),!1,s),r)}}
 F.Rt.prototype={
 $1:function(a){return new Q.hz(new R.ah(H.a([],t.s),t.S))}}
 T.tX.prototype={
